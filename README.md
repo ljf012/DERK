@@ -1,5 +1,6 @@
 # DERK
-This code is for the paper "Diversity-Enhanced Recommendation with Knowledge-Aware Devoted and Diverse Interest Learning".
+This code is for the paper "Diversity-Enhanced Recommendation with Knowledge-Aware Devoted and Diverse Interest Learning", which is accepted by IJCNN 2023.
+
 All experiments are run on a machine containing 256GB of RAM, and 4 NVIDIA 3090 or 4 NVIDIA A40 graphics cards in Ubuntu 20.04.
 
 Due to the limitation of upload file size, this zip only contains the preprocessed dataset and training weights of MovieLens. 
